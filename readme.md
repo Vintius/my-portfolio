@@ -1,8 +1,9 @@
 
 Проекты:  
 
-|[![Teleprofit](img/teleprofit-300.png)][teleprofit]|[![Alles](img/alles-300.png)][alles]|
+|||
 |:---:|:---:|
+|[![Teleprofit](img/teleprofit-300.png)][teleprofit]|[![Alles](img/alles-300.png)][alles]|
 |[Teleprofit][teleprofit]|[Alles][alles]|
 |[(source  code)](https://github.com/Vintius/teleprofit)|[(source  code)](https://github.com/Vintius/alles)|
 |||
