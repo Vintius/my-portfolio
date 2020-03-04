@@ -1,4 +1,12 @@
 
 Проекты:  
 
-<img src="img/teleprofit.png" style="width: 300px;">
+<img class="image" src="img/teleprofit.png">
+
+<styles>
+
+.image {
+    width:300px;
+}
+
+</styles>
