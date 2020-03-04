@@ -1,10 +1,4 @@
 
 Проекты:  
 
-<img class="image" src="img/teleprofit.png">
-
-<styles>
-.image {
-    width:300px;
-}
-</styles>
+|[Teleprofit]<img src="img/teleprofit.png" width="300px">(https://vintius.github.io/teleprofit/)||
