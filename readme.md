@@ -1,6 +1,4 @@
-<head>
-    <link href="styles/styles.css" rel="stylesheet">
-</head>
+<link href="styles/styles.css" rel="stylesheet">
 
 Проекты:  
 
