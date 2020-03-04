@@ -7,10 +7,10 @@
 |[Teleprofit][teleprofit]|[Alles][alles]|
 |[(source  code)](https://github.com/Vintius/teleprofit)|[(source  code)](https://github.com/Vintius/alles)|
 |||
-|||
 |[![Recyclene](img/recyclene-300.png)][recyclene]|[![FinnChess](img/finnchess-300.png)][finnchess]|
 |[Recyclene][recyclene]|[FinnChess][finnchess]|
 |[(source  code)](https://github.com/Vintius/recyclene)|[(source  code)](https://github.com/Vintius/finnchess)|
+|||
 
 
 
