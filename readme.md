@@ -3,10 +3,8 @@
 
 <img class="image" src="img/teleprofit.png">
 
-<style>
-
+<styles>
 .image {
     width:300px;
 }
-
-</style>
+</styles>
