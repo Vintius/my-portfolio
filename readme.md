@@ -1,5 +1,5 @@
 <head>
-    <link href="styles/style.css" rel="stylesheet">
+    <link href="styles/styles.css" rel="stylesheet">
 </head>
 
 Проекты:  
